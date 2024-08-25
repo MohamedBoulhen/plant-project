@@ -1,27 +1,29 @@
-# PlantProject
+# Plant Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+## Description
 
-## Development server
+This is an Angular application aimed at showcasing various plants with detailed information and images. The project is currently in its early stages and is still under development.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+- **Header Component**: Displays a header with navigation options.
+- **Pflanzen Card Component**: Shows detailed information about different plants, including images and descriptions.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Screenshots
 
-## Build
+Here are some screenshots of the current state of the application:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Screenshot](public/assets/screenshots/screen.png)
 
-## Running unit tests
+## Current Status
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This project is in the early stages of development. Features are being added, and the application is undergoing active development. Check back for updates as new features and improvements are implemented.
 
-## Running end-to-end tests
+## Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+To set up the project locally, follow these steps:
 
-## Further help
+1. **Clone the Repository**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+   ```bash
+   git clone https://github.com/MohamedBoulhen/plant-project.git
